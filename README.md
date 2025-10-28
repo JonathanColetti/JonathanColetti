@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jonathan coletti
+- 👋 Hi, I’m jonathan coletti and I have about a year and a half of real world experience working with SOTA AI models and about one year running my own company prior
 - 🔎 https://tryhackme.com/p/Jonathan1567
 - 💬 https://stackoverflow.com/users/15907013/jonathan-coletti
 - 🔥 https://discuss.pytorch.org/u/jonathan_coletti/summary
