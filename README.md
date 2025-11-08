@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jonathan coletti and I have about a year and a half of real world experience as an AI trainer and about one year running my own company prior
+- 👋 Hi, I’m jonathan coletti
 - 🕵️‍♂️ https://tryhackme.com/p/Jonathan1567
 - 💬 https://stackoverflow.com/users/15907013/jonathan-coletti
 - 🔥 https://discuss.pytorch.org/u/jonathan_coletti/summary
