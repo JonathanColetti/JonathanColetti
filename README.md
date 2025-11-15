@@ -2,3 +2,4 @@
 - 🕵️‍♂️ https://tryhackme.com/p/Jonathan1567
 - 💬 https://stackoverflow.com/users/15907013/jonathan-coletti
 - 🔥 https://discuss.pytorch.org/u/jonathan_coletti/summary
+- 📊 https://www.kaggle.com/jonathanncoletti
